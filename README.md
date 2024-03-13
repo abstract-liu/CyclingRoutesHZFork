@@ -78,9 +78,9 @@
 - 评价：“最爱湖东行不足，绿杨阴里白沙堤”，“重湖叠巘清嘉，有三秋桂子，十里荷花”，西湖的风光不用多说。除杨公堤小拱桥外均为平路，天气好较为拥堵，推荐避开车流高峰期前往。
 - 活动轨迹链接：https://www.strava.com/activities/6731572126
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/0newocg4.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/0newocg4.webp)
 - 风景图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/rdhr14xx.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/rdhr14xx.webp)
 
 ## 2.2 龙井+梅岭套餐
 
@@ -90,10 +90,10 @@
 - 评价：龙井在杭州骑友中的地位自不必多说，许多骑友更是拿龙井北坡的成绩来自我评价，算是新手必爬的坡。n*龙井+梅岭的一套组合爬坡算是大佬们保持感觉的日常训练，也是新手必须多骑的。清晨或是夜深人静时，在西湖群山的环抱之中骑车，心情很是舒畅，特别是清晨的梅家坞，大片茶山映入眼帘，甚是养眼。
 - 活动轨迹链接：https://www.strava.com/activities/8954633106
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/csnrll2y.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/csnrll2y.webp)
 - 风景图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/qudffpwp.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/50vqf0ik.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/qudffpwp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/50vqf0ik.webp)
 
 ## 2.3 梅岭+大清谷
 
@@ -103,7 +103,7 @@
 - 评价：像它的名称说的一样，大清谷真的非常清静，爬一个3km的缓坡就到了网红打卡点-青龙洞。这条路线骑起来也是比较顺畅的，可以作为梅龙的备选线路，新手完全可以尝试一番。
 - 活动轨迹链接：https://www.strava.com/activities/9169087918
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/ovvdvt3m.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/ovvdvt3m.webp)
 - 风景图：
 
 ## 2.4 灵山
@@ -124,7 +124,7 @@
 - 评价：TeamZJU 521保留节目，在西湖画一朵玫瑰，属于骑行佬独特的浪漫！
 - 活动轨迹链接：https://www.strava.com/activities/5332781002
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/eo0s5b4i.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/eo0s5b4i.webp)
 - 风景图：
 
 ## 2.6 西溪谷
@@ -135,7 +135,7 @@
 - 评价：西溪游步道是沿山休闲步道，比较窄，但风景挺好，沿途有樱花树、茶山、法华寺，俯瞰远处城市景观，可以作为休闲赏春路线，但是路线弯弯绕绕，不太好寻路，一定要看好路书。
 - 活动轨迹链接：https://www.strava.com/activities/8581202962
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/iamdjtiy.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/iamdjtiy.webp)
 - 风景图：
 
 ## 2.7 西溪湿地绕圈
@@ -146,7 +146,7 @@
 - 评价：西溪湿地绕圈为早期平路绕圈的好去处，只有两个红绿灯，路也比较好，主要还是离杭州各个地方都比较近，骑起来方便。但随着骑行爱好者越来越多，这条入门路线也网红化了，出的事故也比较多，在此就不过多评价了。建议早期或者深夜骑，这时车也不多，可以开个小火车。
 - 活动轨迹链接：https://www.strava.com/activities/9079170255
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/lxcqkdjc.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/lxcqkdjc.webp)
 
 # 3 安吉-余杭-临安交界群山（城西北）
 
@@ -234,7 +234,7 @@
 - 活动轨迹链接：https://www.strava.com/activities/10465749246
 - 路线图：
 - 风景图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/1yl2jjpu.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/1yl2jjpu.webp)
 
 ## 3.6 九亩田
 
@@ -291,12 +291,12 @@
 - 评价：出余杭塘路基本就没红绿灯了，可以爽骑。大鱼线是一条长20+km的长缓坡，非常考验耐力和毅力。沿途有小溪竹林，零星几个村庄，算是深入自然之中了。而云上草原相对比较难，特别是爬完大鱼线之后，大家一定要量力而行，但峰顶的风景绝对对得起你的汗水。草木旺盛、天高云淡之时，四周风景一览无余。
 - 活动轨迹链接：https://www.strava.com/activities/6461681024/
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/5phnm4ob.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/5phnm4ob.webp)
 - 风景图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/iqeuj1il.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/oiya543f.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/12h05qyp.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/cy3opfds.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/iqeuj1il.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/oiya543f.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/12h05qyp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/cy3opfds.webp)
 
 ### 3.9.3 白水涧
 
@@ -377,12 +377,12 @@
 - 评价：钱塘江刷江、春永线骑起来都特别爽，畅通无阻；轮渡增加了骑行乐趣；山顶两个观景平台都不错，爬完安顶山一定要右转继续走到下一个观景平台，两个平台视野开阔，可以看到山丘连绵起伏。云雾缭绕的安顶山也别有一番景致。温度到零下时也会有雾凇和雪。相比林峰山，安顶山坡度更大，对新手来说还是有些挑战。
 - 活动轨迹链接：https://www.strava.com/activities/10000192027
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/2i5cyx2m.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/2i5cyx2m.webp)
 - 风景图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/ajmmvl1r.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/pdoaqv0d.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp[/img]
-[img]https://file.cc98.org/v2-upload/2024-03-13/yvfqnlty.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/ajmmvl1r.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/pdoaqv0d.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp)
+![](https://file.cc98.org/v2-upload/2024-03-13/yvfqnlty.webp)
 
 ## 4.3 林峰安顶穿越
 
@@ -392,7 +392,7 @@
 - 评价：高强度长距离爬坡，建议爬过安顶山和林峰山再来挑战，反穿有几段特别陡的坡，费膝盖。另外安排好时间，不要天黑了还在山里。
 - 活动轨迹链接：https://www.strava.com/activities/10928328492
 - 路线图：
-[img]https://file.cc98.org/v2-upload/2024-03-13/gkxjmunr.webp[/img]
+![](https://file.cc98.org/v2-upload/2024-03-13/gkxjmunr.webp)
 - 风景图：
 
 ## 4.4 萧山天路组合
