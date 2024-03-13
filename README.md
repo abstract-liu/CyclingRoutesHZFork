@@ -76,6 +76,7 @@
 - 爬升：45m
 - 难度：无
 - 评价：“最爱湖东行不足，绿杨阴里白沙堤”，“重湖叠巘清嘉，有三秋桂子，十里荷花”，西湖的风光不用多说。除杨公堤小拱桥外均为平路，天气好较为拥堵，推荐避开车流高峰期前往。
+- 活动轨迹链接：https://www.strava.com/activities/6731572126
 - 路线图：
 [img]https://file.cc98.org/v2-upload/2024-03-13/0newocg4.webp[/img]
 - 风景图：
@@ -183,7 +184,7 @@
 - 爬升：
 - 难度：
 - 评价：
-- 活动轨迹链接：
+- 活动轨迹链接：https://www.strava.com/activities/10016546676
 - 路线图：
 - 风景图：
 
@@ -219,7 +220,7 @@
 - 爬升：
 - 难度：
 - 评价：
-- 活动轨迹链接：
+- 活动轨迹链接：https://www.strava.com/activities/10034430181
 - 路线图：
 - 风景图：
 
@@ -230,9 +231,10 @@
 - 爬升：
 - 难度：
 - 评价：
-- 活动轨迹链接：
+- 活动轨迹链接：https://www.strava.com/activities/10465749246
 - 路线图：
 - 风景图：
+[img]https://file.cc98.org/v2-upload/2024-03-13/1yl2jjpu.webp[/img]
 
 ## 3.6 九亩田
 
@@ -291,7 +293,10 @@
 - 路线图：
 [img]https://file.cc98.org/v2-upload/2024-03-13/5phnm4ob.webp[/img]
 - 风景图：
-
+[img]https://file.cc98.org/v2-upload/2024-03-13/iqeuj1il.webp[/img]
+[img]https://file.cc98.org/v2-upload/2024-03-13/oiya543f.webp[/img]
+[img]https://file.cc98.org/v2-upload/2024-03-13/12h05qyp.webp[/img]
+[img]https://file.cc98.org/v2-upload/2024-03-13/cy3opfds.webp[/img]
 
 ### 3.9.3 白水涧
 
@@ -366,22 +371,28 @@
 
 ## 4.2 安顶山
 
-- 距离：
-- 爬升：
-- 难度：
-- 评价：
-- 活动轨迹链接：
+- 距离：105-120km
+- 爬升：800m
+- 难度：★★★
+- 评价：钱塘江刷江、春永线骑起来都特别爽，畅通无阻；轮渡增加了骑行乐趣；山顶两个观景平台都不错，爬完安顶山一定要右转继续走到下一个观景平台，两个平台视野开阔，可以看到山丘连绵起伏。云雾缭绕的安顶山也别有一番景致。温度到零下时也会有雾凇和雪。相比林峰山，安顶山坡度更大，对新手来说还是有些挑战。
+- 活动轨迹链接：https://www.strava.com/activities/10000192027
 - 路线图：
+[img]https://file.cc98.org/v2-upload/2024-03-13/2i5cyx2m.webp[/img]
 - 风景图：
+[img]https://file.cc98.org/v2-upload/2024-03-13/ajmmvl1r.webp[/img]
+[img]https://file.cc98.org/v2-upload/2024-03-13/pdoaqv0d.webp[/img]
+[img]https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp[/img]
+[img]https://file.cc98.org/v2-upload/2024-03-13/yvfqnlty.webp[/img]
 
 ## 4.3 林峰安顶穿越
 
-- 距离：
-- 爬升：
-- 难度：
-- 评价：
-- 活动轨迹链接：
+- 距离：110-130km
+- 爬升：1300m
+- 难度：★★★★★
+- 评价：高强度长距离爬坡，建议爬过安顶山和林峰山再来挑战，反穿有几段特别陡的坡，费膝盖。另外安排好时间，不要天黑了还在山里。
+- 活动轨迹链接：https://www.strava.com/activities/10928328492
 - 路线图：
+[img]https://file.cc98.org/v2-upload/2024-03-13/gkxjmunr.webp[/img]
 - 风景图：
 
 ## 4.4 萧山天路组合
@@ -460,7 +471,7 @@
 - 爬升：
 - 难度：
 - 评价：
-- 活动轨迹链接：
+- 活动轨迹链接：https://www.strava.com/activities/10282639091
 - 路线图：
 - 风景图：
 
@@ -470,7 +481,7 @@
 - 爬升：
 - 难度：
 - 评价：
-- 活动轨迹链接：
+- 活动轨迹链接：https://www.strava.com/activities/10509389612
 - 路线图：
 - 风景图：
 
