@@ -221,7 +221,7 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/q2vfrc3d.webp)
 ![](http://file.cc98.org/v2-upload/jsharmei.jpg)
-
+![](https://file.cc98.org/v2-upload/2024-03-16/pbr35bgk.webp)
 
 
 ## 3.5 百丈-山川环线
@@ -394,7 +394,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-16/ykmb3nxg.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/xxjg1y5f.webp)
-
+![](https://file.cc98.org/v2-upload/2024-03-16/l1lrihsh.webp)
 
 
 ## 4.2 安顶山
@@ -410,7 +410,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/gpwzecbj.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/apjd3jze.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp)
-
+![](https://file.cc98.org/v2-upload/2024-03-16/wppjl4vz.webp)
 
 
 ## 4.3 林峰安顶穿越
@@ -618,6 +618,8 @@
 - 风景图：
   ![](http://file.cc98.org/v2-upload/3iqa0pzl.jpg)
   ![](http://file.cc98.org/v2-upload/2023-02-21/lf12nhbf.jpg)
+  ![](https://file.cc98.org/v2-upload/2024-03-16/fxkdpwkl.webp)
+  ![](https://file.cc98.org/v2-upload/2024-03-16/pezjiz2j.webp)
 
 ## 5.8 瓦窑坪（杭州小香榧）
 
@@ -647,6 +649,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/o5uolc2k.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/fnjrlbtq.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/r1quuzij.webp)
+
 
 ## 6.2 递笺线、对河口水库
 
@@ -706,13 +709,15 @@
 
 ## 7.5 苕溪
 
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：55km
+- 难度：★
+- 概述：苕溪骑行绿道
+- 活动参考链接：https://www.strava.com/activities/7761987240
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-16/llecgafd.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/nntan3al.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-16/qmt5hm5j.webp)
 
 ## 7.6 钱塘路
 
@@ -727,7 +732,7 @@
 ## 7.7 湘湖
 
 - 距离：
-- 难度：
+- 难度：★
 - 概述：
 - 活动参考链接：
 - 路线图：
