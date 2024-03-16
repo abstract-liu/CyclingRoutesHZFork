@@ -235,6 +235,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/yvqyjpfc.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/fal0sfr0.webp)
+![](https://file.cc98.org/v2-upload/2024-03-16/j2yhg0cv.webp)
 
 ## 3.6 鸬鸟山
 
