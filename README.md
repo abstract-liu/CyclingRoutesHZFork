@@ -562,14 +562,16 @@
 ## 5.1 小中泰1
 
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：75km
+- 爬升：550m
+- 难度：★★★
+- 概述：中泰小环线是市区附近一条不错的起伏路线，过万丈山隧道后全程上上下下。花海、古树、溪流、采茶人，你要的田园生活这里应有尽有。这是一条非常合适的近郊短途踏春路线。容易迷路，请提前下载好路书。
+- 活动参考链接：https://www.strava.com/activities/9026706642
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-17/h0psmmsk.webp)
 - 风景图：
-
+![](https://file.cc98.org/v2-upload/2024-03-17/d0jyg0js.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/43oyl3zb.webp)
 ## 5.2 小中泰2
 
 - 距离：
@@ -615,16 +617,20 @@
 - 路线图：
 - 风景图：
 
-## 5.6 大中泰
+## 5.6 大中泰（中泰-永昌镇）
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：125km（天目山路-留和路-高泰线-横桐线-永青线-永昌镇-省道206-花戏村-天目山路）
+- 爬升：900m
+- 难度：★★★★
+- 概述：此路线难度不大，没有长、陡坡，但连续长距离的起伏还是有一定强度的。中泰地区有连绵起伏山丘茶园，永昌镇有大片的油菜花，风景迷人。畅通无阻、宽敞干净的道路简直就是为骑行者建造的。正值初春，何不摇上三两好友，享受一日春光。
+- 活动参考链接：https://www.strava.com/activities/8733783730
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-17/oz4wkyqg.webp)
 - 风景图：
-
+![](https://file.cc98.org/v2-upload/2024-03-17/lubslvjq.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/qlcmnyza.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/23bmd154.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/0134lmnn.webp)
 ## 5.7 周家头、大同岭
 
 - 距离：125km
@@ -673,13 +679,19 @@
 
 ## 6.2 递笺线、对河口水库
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：150km
+- 爬升：800m
+- 难度：★★★★★
+- 概述：浙江山村的道路永远不会让人失望，将大自然的雄伟魅力展现的淋漓尽致。沿途不仅能看到莫干山山系的壮丽景观，还能一睹莫干湖（对河口水库）真容。不过这条线路还是有一定强度的，建议早些出发。
+- 活动参考链接：https://www.strava.com/activities/8898878749
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-17/bifiaunj.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-17/ycik5hif.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/qsgsnu4v.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/nex5dd21.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/csuyt03t.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/egkj3utz.webp)
 
 ## 6.3 莫干山
 
@@ -719,11 +731,12 @@
 
 ## 7.4 国道104-235组合
 
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：65km
+- 难度：★
+- 概述：无敌组合
+- 活动参考链接：https://www.strava.com/activities/7761987276
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/5f43ser1.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2023-02-21/43aqw3ms.jpg)
 
@@ -731,7 +744,7 @@
 
 - 距离：55km
 - 难度：★
-- 概述：苕溪骑行绿道
+- 概述：苕溪骑行绿道特别适合新手，沿着苕溪北上，沿途乡村风光无限，还会经过一条废弃铁路，可以打个卡。
 - 活动参考链接：https://www.strava.com/activities/7761987240
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-16/llecgafd.webp)
