@@ -902,3 +902,49 @@ DAY3
 ![](http://file.cc98.org/v2-upload/avkq3gtc.jpg)
 ![](http://file.cc98.org/v2-upload/tyq2jrsh.jpg)
 
+## 8.4 环太湖四日
+距离：90km+158km+158km+93km，总计约500km
+- 爬升：430m+450m+280m+170m，总计约1330m
+- 难度：★★★★★
+- 活动参考链接：
+    https://www.strava.com/activities/9953964365
+    https://www.strava.com/activities/9960888815
+    https://www.bilibili.com/video/BV1Rp4y1M7Ko
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 杭州-德清-湖州  |
+  | DAY2 | 湖州-宜兴-无锡  |
+  | DAY3 | 无锡-苏州-织里  |
+  | DAY4 | 织里-乾元-杭州  |
+
+此路线较为休闲，大佬可以考虑高铁直达太湖畔后一日内完成环湖。太湖整体较为平坦，沿途有大量骑行绿道，有多种路线可以选择。可以根据自身情况选择骑行距离。主要难点在于部分路段有较强的大风。主要景观包括湖州喜来登酒店（又名月亮酒店）、湖州太湖度假区、G104-1314驿站、常州太湖湾度假区、京杭大运河无锡-苏州交界、蠡湖国家湿地公园、太湖渔洋山风景区、东山风景区以及西山风景区等。骑行在太湖不同区域能感受太湖不同的风格，似大海般蔚蓝又无海的狂怒；似河流般深灰又可赏无尽的芦苇飘荡。在太湖休闲骑能真正体会“车轮不止，生命不息”的活力与快乐。
+
+- 路线图：
+
+
+DAY1
+
+![](https://file.cc98.org/v2-upload/2024-03-17/iqnsjzaj.webp)
+
+DAY2
+
+![](https://file.cc98.org/v2-upload/2024-03-17/1klw0dnd.webp)
+
+DAY3
+
+![](https://file.cc98.org/v2-upload/2024-03-17/yjkmztew.webp)
+
+DAY4
+
+![](https://file.cc98.org/v2-upload/2024-03-17/q5zpnunl.webp)
+
+- 风景图：
+- 
+![](https://file.cc98.org/v2-upload/2024-03-17/i41pibux.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/pjeiptc5.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/rns1gmlp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/vk0w3lbl.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/odrkanlq.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/ulav3ap2.webp)
