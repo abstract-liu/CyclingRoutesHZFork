@@ -294,6 +294,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/wtyxxi10.webp)
 ![](http://file.cc98.org/v2-upload/5wlyacf3.jpg)
 ![](http://file.cc98.org/v2-upload/c5wxlhgl.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/n2mqalgr.webp)
 
 
 
@@ -315,6 +316,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/x4rc01pm.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/mzl11p0z.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/nxq1cszz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/xd1ipvrm.webp)
 
 
 ### 3.8.2 云上草原
@@ -423,6 +425,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/xxjg1y5f.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/l1lrihsh.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/h1gjdmx5.webp)
 
 
 ## 4.2 安顶山
@@ -439,6 +442,9 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/apjd3jze.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/wppjl4vz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/uqlxlurc.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/jtzgg5wu.webp)
+
 
 
 ## 4.3 林峰安顶穿越
@@ -524,13 +530,20 @@
 
 ### 4.8.2 萧山天路2（沈村往常绿）
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
+- 距离：160km
+- 爬升：1470m
+- 难度：★★★★★★
+- 概述：该路线路面质量较高，汽车稀少，是一条高质量线路。沿钱塘江跨过浦阳江后从沈村上行，下山后经富春江-铜鉴湖返回。萧山天路风景优美，有不同于西湖群山的壮阔。但是有较大的强度，各位小伙伴前往需有较好的体力以及充足的补给。
 - 活动参考链接：
+https://www.strava.com/activities/10041975503
+https://www.bilibili.com/video/BV1q34y1g7xu
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/0o50mkdp.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/cegcsgfr.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/tcn34wko.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/2tizgdbn.webp)
+
 
 ## 4.9 道林山-楼塔-常绿-上官环线
 
@@ -580,6 +593,7 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-17/d0jyg0js.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/43oyl3zb.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/dcru2kc5.webp)
 
 ## 5.2 西岩山
 
@@ -818,6 +832,10 @@
 - 路线图：
 - 风景图：
 ![](https://file.cc98.org/v2-upload/xet5y53t.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/u4p3n4e4.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/1r35bvxi.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/5nbpwd23.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/r4unnphg.webp)
 
 ## 7.11 翁金线
 
@@ -866,9 +884,48 @@ DAY3
 ![](http://file.cc98.org/v2-upload/bk3m3tux.jpg)
 ![](http://file.cc98.org/v2-upload/yjbnxncc.jpg)
 ![](http://file.cc98.org/v2-upload/s3ljcdgj.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/qiz4tmtv.webp)
 
 
 ## 8.2 四明山三日
+
+- 距离：180km+120km+133km，总计约433km
+- 爬升：850m+1500m+340m，总计约2700m
+- 难度：★★★★★★
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 西湖-湘湖-义桥-越城-平王线-上虞-余姚 |
+  | DAY2 | 四明水库-观景台-大岚镇-柿林村-章水镇-竹丝岚 |
+  | DAY3 | 余姚-安昌古镇-杭州 |
+
+此路线在炎热的天气下有一定的挑战性，但是每日的强度都较为合适，且沿途有大量不同风格的美景，在秋季骑行此路线还能享受馥郁的花香。四明山的壮丽风光也值得各位一去。回程路上安昌古镇的宁谧悠闲与落日余晖也能抹去骑手的疲劳。
+
+- 路线图：
+
+
+DAY1
+
+![](https://file.cc98.org/v2-upload/2024-03-18/zqnzp2fp.webp)
+
+DAY2
+
+![](https://file.cc98.org/v2-upload/2024-03-18/snotxt0g.webp)
+
+DAY3
+
+![](https://file.cc98.org/v2-upload/2024-03-18/dxmhmnpu.webp)
+
+- 风景图：
+- 
+![](https://file.cc98.org/v2-upload/2024-03-18/of5nifxs.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/hgguqhn0.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ejkzhrbc.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ms5gdgwo.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/mp2l0urv.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/y545ejs2.webp)
+
 
 ## 8.3 清凉峰国家级自然保护区
 
@@ -907,6 +964,7 @@ DAY3
 ![](http://file.cc98.org/v2-upload/p1ugzrw5.jpg)
 ![](http://file.cc98.org/v2-upload/avkq3gtc.jpg)
 ![](http://file.cc98.org/v2-upload/tyq2jrsh.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/jrr4cwlw.webp)
 
 ## 8.4 环太湖四日
 距离：90km+158km+158km+93km，总计约500km
