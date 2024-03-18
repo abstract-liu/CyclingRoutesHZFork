@@ -289,6 +289,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/wtyxxi10.webp)
 ![](http://file.cc98.org/v2-upload/5wlyacf3.jpg)
 ![](http://file.cc98.org/v2-upload/c5wxlhgl.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/n2mqalgr.webp)
 
 
 
@@ -310,6 +311,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/x4rc01pm.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/mzl11p0z.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/nxq1cszz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/xd1ipvrm.webp)
 
 
 ### 3.8.2 云上草原
@@ -415,6 +417,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/xxjg1y5f.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/l1lrihsh.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/h1gjdmx5.webp)
 
 
 ## 4.2 安顶山
@@ -431,6 +434,8 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/apjd3jze.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/wppjl4vz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/uqlxlurc.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/jtzgg5wu.webp)
 
 
 ## 4.3 林峰安顶穿越
@@ -860,9 +865,47 @@ DAY3
 ![](http://file.cc98.org/v2-upload/bk3m3tux.jpg)
 ![](http://file.cc98.org/v2-upload/yjbnxncc.jpg)
 ![](http://file.cc98.org/v2-upload/s3ljcdgj.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/qiz4tmtv.webp)
 
 
 ## 8.2 四明山三日
+
+- 距离：180km+120km+133km，总计约433km
+- 爬升：850m+1500m+340m，总计约2700m
+- 难度：★★★★★★
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 西湖-湘湖-义桥-越城-平王线-上虞-余姚 |
+  | DAY2 | 四明水库-观景台-大岚镇-柿林村-章水镇-竹丝岚 |
+  | DAY3 | 余姚-安昌古镇-杭州 |
+
+此路线在炎热的天气下有一定的挑战性，但是每日的强度都较为合适，且沿途有大量不同风格的美景，在秋季骑行此路线还能享受馥郁的花香。四明山的壮丽风光也值得各位一去。回程路上安昌古镇的宁谧悠闲与落日余晖也能抹去骑手的疲劳。
+
+- 路线图：
+
+
+DAY1
+
+![](https://file.cc98.org/v2-upload/2024-03-18/zqnzp2fp.webp)
+
+DAY2
+
+![](https://file.cc98.org/v2-upload/2024-03-18/snotxt0g.webp)
+
+DAY3
+
+![](https://file.cc98.org/v2-upload/2024-03-18/dxmhmnpu.webp)
+
+- 风景图：
+- 
+![](https://file.cc98.org/v2-upload/2024-03-18/of5nifxs.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/hgguqhn0.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ejkzhrbc.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ms5gdgwo.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/mp2l0urv.webp)
+
 
 ## 8.3 清凉峰国家级自然保护区
 
@@ -903,7 +946,8 @@ DAY3
 ![](http://file.cc98.org/v2-upload/tyq2jrsh.jpg)
 
 ## 8.4 环太湖四日
-距离：90km+158km+158km+93km，总计约500km
+
+- 距离：90km+158km+158km+93km，总计约500km
 - 爬升：430m+450m+280m+170m，总计约1330m
 - 难度：★★★★★
 - 活动参考链接：
