@@ -629,6 +629,7 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 活动参考链接：
 - 路线图：
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/fkcezsig.webp)
 
 ## 5.5 大中泰（中泰-永昌镇）
 
