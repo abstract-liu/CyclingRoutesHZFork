@@ -521,13 +521,18 @@
 
 ### 4.8.2 萧山天路2（沈村往常绿）
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：160km
+- 爬升：1470m
+- 难度：★★★★★★
+- 概述：该路线路面质量较高，汽车稀少，是一条高质量线路。沿钱塘江跨过浦阳江后从沈村上行，下山后经富春江-铜鉴湖返回。萧山天路风景优美，有不同于西湖群山的壮阔。但是有较大的强度，各位小伙伴前往需有较好的体力以及充足的补给。
+- 活动参考链接：https://www.strava.com/activities/10041975503
+               https://www.bilibili.com/video/BV1q34y1g7xu
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/0o50mkdp.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/cegcsgfr.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/tcn34wko.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/2tizgdbn.webp)
 
 ## 4.9 道林山-楼塔-常绿-上官环线
 
