@@ -22,26 +22,27 @@
 ## 0.2 新版说明
 新版杭州骑行路线推陈出新，在路线分类、路线规划、路线概述与概述和路书文件等方面做出了全面、细致的改善，具体体现在以下方面：
 
-1. **受众** 由于新版杭州骑行路线（`下称新版`）统计的大部分路线均有一定的挑战性（绝大部分是山路），所以推荐刚入门或休闲为主的小伙伴关注`西湖群山`和`平路合集`即可，有一定运动基础的uu们可以参考其他部分的路线。**当然所有类别的路线都有丰富的风景照，欢迎从头至尾欣赏！**
-3. **路线分类** 
-- 与上一版依据路线难度分类不同，新版采用了`山岭区域`为基本单位进行分类的方法。
+1. **受众** 新版杭州骑行路线（`下称新版`）全方位考虑了**新手、骑游党和竞速党**等不同人群的需求，深入浅出地介绍了杭州城区周边绝大部分的优质骑行路线。由于统计的路线中绝大部分是山路，有一定的挑战性，所以推荐刚入门或休闲为主的小伙伴关注`西湖群山`和`平路合集`即可，有一定运动基础的uu们可以参考其他部分的路线，具体的难度推荐请参考`山岭区域的分布`。**当然所有类别的路线都有丰富的风景照，欢迎从头至尾欣赏！**
+  
+2. **路线分类** 
+    > 与上一版依据路线难度分类不同，新版采用了`山岭区域`为基本单位进行分类的方法。
 - **首先**，在每一个类别中，总结值得一去的目的地，再列出推荐的经典路线。
+  - 例如在`西湖群山`类别中，包括龙井、梅岭、大清谷和环西湖等目的地，经典路线则有`龙井+梅岭绕圈`、`龙井+大清谷绕圈`和`龙井+刷江`等组合。
+ - **其次**，我们将在第一部分介绍**整体的山岭区域分布**和**去往各个方向的山岭区域的主干道**，以避免在各类别中重复阐述。此外，对于少数平路和城区路线，将统一纳入`平路合集`类别。
+    - 例如去往城西北方向，余杭鸬鸟、安吉百丈等方向山岭片区的主干道为G104和G235等，这些主干道路将在第1节中率先介绍。
 
-  > 例如在`西湖群山`类别中，包括龙井、梅岭、大清谷和环西湖等目的地，经典路线则有`龙井+梅岭绕圈`、`龙井+大清谷绕圈`和`龙井+刷江`等组合。
-- **其次**，我们将在第一部分介绍**整体的山岭区域分布**和**去往各个方向的山岭区域的主干道**，以避免在各类别中重复阐述。此外，对于少数平路和城区路线，将统一纳入`平路合集`类别。
-  > 例如去往城西北方向，余杭鸬鸟、安吉百丈等方向山岭片区的主干道为G104和G235等，这些主干道路将在第1节中率先介绍。
-
-
-1. **路线规划** 与上一版的路线规划相比，新版的规划更为科学，秉持少红绿灯、路面平整、风景优美和坡度平缓等原则，争取把最为老道的路线分享给大家。
-2. **路线概述与概述** 相较于上一版，新版将从难度、出行安全、风景和补给等方面出发对路线做出全方位的评估。此外，路线的距离计算都以紫金港或玉泉校区为起终点。
-3. **路书文件** 新版将尽力为大家提供GPX路书文件，供有码表导航的uu使用。
+3. 路线规划与描述
+  - **路线规划** 与上一版的路线规划相比，新版的规划更为科学，秉持少红绿灯、路面平整、风景优美和坡度平缓等原则，争取把最为老道的路线分享给大家。
+  - **路线概述与概述** 相较于上一版，新版将从难度、出行安全、风景和补给等方面出发对路线做出全方位的评估。此外，路线的距离计算都以紫金港或玉泉校区为起终点。
+  - **路书文件** 新版为大家提供了所有路线的活动参考链接，大家可访问网页版链接自行下载路书文件。所有活动基本都从紫金港或者玉泉出发，大家可参考关键部分的路线选择。若有特别需要的，可私信几位作者获取更科学规划的GPX文件。
 
 ## 0.3 贡献者
 
 > 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210) [@宽油炸竹鼠](https://www.cc98.org/user/id/610890)共同编写，排名不分先后。
 
 ## 0.4 其他
-由于98的markdown解析器应该是偏向于简洁版，故排版不是特别美观。且文中图片较多，无法收起，没有对应导航的目录标签，可能导致阅读体验不佳。如果想获得更佳的阅读体验，可到[这里](https://gitee.com/zsy54203/cycling-routes-hz)浏览完，再回98讨论:kissing_heart:。
+- 由于98的markdown解析器应该是偏向于简洁版，故排版不是特别美观。且文中图片较多，无法收起，没有对应导航的目录标签，可能导致阅读体验不佳。如果想获得更佳的阅读体验，可到[这里](https://gitee.com/zsy54203/cycling-routes-hz)浏览完，再回98讨论:kissing_heart:。
+- 由于路线较多，难免存在疏漏、笔误之处，欢迎大家指正。
 
 # 1 山岭分布和主干道简介
 
@@ -50,6 +51,10 @@
 > 这段山系介绍强烈建议仔细阅读，由路线大师[@kenbdisk](https://www.cc98.org/user/id/660048)总结
 
 ![](https://file.cc98.org/v2-upload/2024-03-14/pqu0qhyb.webp)
+
+![](https://file.cc98.org/v2-upload/2024-03-18/je1yah1k.webp)
+
+> 在**2022年全球骑行最友好城市**中，**杭州位列第七位**，这在公路车与山地车发展较为滞后的我国是一个非常不可思议的成就。在这个榜单中，杭州能与著名的自行车王国丹麦、荷兰和比利时等国的城市一较高下。接下来，笔者就按山系分布简要介绍一下骑行圣地杭州的路线分布。
 
 杭州的主城区（包括**临安、余杭、富阳、萧山**）位于杭嘉湖平原的西南角，因此对于骑友们而言，骑平路往往是向东北方向走，比如三江两岸的刷江干线；而想要挑战山岳之巅，那就需要向西和向南而行。
 
@@ -69,7 +74,7 @@
 
 4. 而对于**莫干山系**，除了对河口水库周边的路线，以及莫干山景区主干道的路线外，往往都是极陡极烂的路，在这之中**王位山**可以说是路况最好的了，但平均坡度也近乎达到了9%以上，不适合新人前往。
 
-*以上便是对于杭州主要山系的简单介绍，较具体的路线介绍将会在下面以不同山系为区块展开。*
+*以上便是对于杭州主要山系的简单介绍，具体的路线介绍将会在下面以不同山系为区块展开。*
 
 ## 1.2 主干道简介
 ### 1.2.1 城西北—G104、G235
@@ -120,6 +125,7 @@
 ![](https://file.cc98.org/v2-upload/2023-02-21/40mbdjgn.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-13/50vqf0ik.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/qudffpwp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/03u4nw3t.webp)
 
 ## 2.3 梅岭+大清谷
 
@@ -131,6 +137,7 @@
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-13/ovvdvt3m.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/flqhpdx5.webp)
 
 ## 2.4 灵山
 
@@ -213,6 +220,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/asv4amqr.webp)
 ![](https://file.cc98.org/v2-upload/2023-02-21/h4u0j2im.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-14/10hmd51q.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/fewpkvio.webp)
 
 
 ## 3.3 老虎山
@@ -274,7 +282,7 @@
 
 
 
-## 3.7 九亩田-金钱松森林公园
+## 3.7 九亩田-金钱松国家森林公园
 
 
 - 距离：135km（古墩路-104-235-鸬鸟镇-九亩田爬坡段-金钱松森林公园-四岭水库-漕雅线-235-104-古墩路）
@@ -289,6 +297,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/wtyxxi10.webp)
 ![](http://file.cc98.org/v2-upload/5wlyacf3.jpg)
 ![](http://file.cc98.org/v2-upload/c5wxlhgl.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/n2mqalgr.webp)
 
 
 
@@ -310,6 +319,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/x4rc01pm.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/mzl11p0z.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/nxq1cszz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/xd1ipvrm.webp)
 
 
 ### 3.8.2 云上草原
@@ -351,8 +361,40 @@
   - **由南至北进入S205**: G235-长西线-
   - **由北至南进入S205**: G104-G235-
 
-### 3.9.1 东坑村
+### 3.9.1 东坑村、白沙村、指南村
 
+
+- 距离：
+- 爬升：
+- 难度：
+- 概述：
+- 活动参考链接：
+  - 东坑村：https://www.strava.com/activities/8780112220
+  - 白沙村：https://www.strava.com/activities/8040412881/
+  - 指南村：https://www.strava.com/activities/10116418512/
+- 路线图：
+  - 东坑村：
+![](https://file.cc98.org/v2-upload/2024-03-18/resjgwe0.webp)
+  - 白沙村：
+![](https://file.cc98.org/v2-upload/2024-03-18/lmf24yxg.webp)
+  - 指南村：![](https://file.cc98.org/v2-upload/2024-03-18/hm5qy5qg.webp)
+- 风景图：
+  - 东坑村
+![](https://file.cc98.org/v2-upload/2024-03-18/ro2a2qpy.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/hwv4pk4c.webp)
+  - 白沙村：
+![](https://file.cc98.org/v2-upload/2024-03-18/mxproxhm.webp)
+  ![](https://file.cc98.org/v2-upload/2024-03-18/rk1scc14.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/5hniy5e2.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/wvd0hgyu.webp)
+  - 指南村：
+![](https://file.cc98.org/v2-upload/2024-03-18/mitxcbch.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/kyvkvnrd.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/1edmaxip.webp)
+
+
+
+### 3.9.2 天荒坪
 
 - 距离：
 - 爬升：
@@ -361,37 +403,8 @@
 - 活动参考链接：
 - 路线图：
 - 风景图：
-
-### 3.9.2 白沙村
-
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
-- 风景图：
-
-### 3.9.3 指南村
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
-- 风景图：
-
-### 3.9.4 天荒坪
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
-- 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/ckwmx21l.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/agildroz.webp)
 
 # 4 富阳-萧山交界群山（城南）
 
@@ -415,6 +428,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/xxjg1y5f.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/l1lrihsh.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/j2mycu0t.webp)
 
 
 ## 4.2 安顶山
@@ -428,9 +442,11 @@
 ![](https://file.cc98.org/v2-upload/2024-03-13/2i5cyx2m.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/gpwzecbj.webp)
-![](https://file.cc98.org/v2-upload/2024-03-14/apjd3jze.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ck0ia3pm.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/wppjl4vz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/uqlxlurc.webp)
+
 
 
 ## 4.3 林峰安顶穿越
@@ -516,13 +532,20 @@
 
 ### 4.8.2 萧山天路2（沈村往常绿）
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
+- 距离：160km
+- 爬升：1470m
+- 难度：★★★★★★
+- 概述：该路线路面质量较高，汽车稀少，是一条高质量线路。沿钱塘江跨过浦阳江后从沈村上行，下山后经富春江-铜鉴湖返回。萧山天路风景优美，有不同于西湖群山的壮阔。但是有较大的强度，各位小伙伴前往需有较好的体力以及充足的补给。
 - 活动参考链接：
+https://www.strava.com/activities/10041975503
+https://www.bilibili.com/video/BV1q34y1g7xu
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/0o50mkdp.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/cegcsgfr.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/tcn34wko.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/2tizgdbn.webp)
+
 
 ## 4.9 道林山-楼塔-常绿-上官环线
 
@@ -559,7 +582,7 @@
 
 ![](https://file.cc98.org/v2-upload/2023-12-30/5zafro2m.webp)
 
-## 5.1 小中泰1
+## 5.1 小中泰
 
 
 - 距离：75km
@@ -572,7 +595,9 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-17/d0jyg0js.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/43oyl3zb.webp)
-## 5.2 小中泰2
+![](https://file.cc98.org/v2-upload/2024-03-18/dcru2kc5.webp)
+
+## 5.2 西岩山
 
 - 距离：
 - 爬升：
@@ -582,17 +607,7 @@
 - 路线图：
 - 风景图：
 
-## 5.3 西岩山
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
-- 风景图：
-
-## 5.4 石盂岭
+## 5.3 石盂岭
 
 - 距离：88km
 - 爬升：750m
@@ -607,7 +622,7 @@
 ![](http://file.cc98.org/v2-upload/2023-02-26/k3vi0jr1.jpg)
 ![](http://file.cc98.org/v2-upload/2023-02-26/ig1wktd1.jpg)
 
-## 5.5 沪瑞线
+## 5.4 沪瑞线
 
 - 距离：
 - 爬升：
@@ -616,8 +631,9 @@
 - 活动参考链接：
 - 路线图：
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/fkcezsig.webp)
 
-## 5.6 大中泰（中泰-永昌镇）
+## 5.5 大中泰（中泰-永昌镇）
 
 - 距离：125km（天目山路-留和路-高泰线-横桐线-永青线-永昌镇-省道206-花戏村-天目山路）
 - 爬升：900m
@@ -631,7 +647,8 @@
 ![](https://file.cc98.org/v2-upload/2024-03-17/qlcmnyza.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/23bmd154.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/0134lmnn.webp)
-## 5.7 周家头、大同岭
+
+## 5.6 周家头、大同岭
 
 - 距离：125km
 - 爬升：750m
@@ -647,15 +664,19 @@
   ![](https://file.cc98.org/v2-upload/2024-03-16/fxkdpwkl.webp)
   ![](https://file.cc98.org/v2-upload/2024-03-16/pezjiz2j.webp)
 
-## 5.8 瓦窑坪（杭州小香榧）
+## 5.7 瓦窑坪（杭州小香榧）
 
 - 距离：
 - 爬升：
 - 难度：
 - 概述：
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/9754553145
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/ezwekn45.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/pl13j25j.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/i5k4vkcp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/avenwcpc.webp)
 
 
 
@@ -677,7 +698,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/r1quuzij.webp)
 
 
-## 6.2 递笺线、对河口水库
+## 6.2 递筏线、对河口水库
 
 - 距离：150km
 - 爬升：800m
@@ -688,10 +709,12 @@
 ![](https://file.cc98.org/v2-upload/2024-03-17/bifiaunj.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-17/ycik5hif.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/y3stadaj.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/qsgsnu4v.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/nex5dd21.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/csuyt03t.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/egkj3utz.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/5f43ser1.webp)
 
 ## 6.3 莫干山
 
@@ -736,7 +759,7 @@
 - 概述：无敌组合
 - 活动参考链接：https://www.strava.com/activities/7761987276
 - 路线图：
-![](https://file.cc98.org/v2-upload/2024-03-18/5f43ser1.webp)
+
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2023-02-21/43aqw3ms.jpg)
 
@@ -812,15 +835,21 @@
 - 路线图：
 - 风景图：
 ![](https://file.cc98.org/v2-upload/xet5y53t.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/u4p3n4e4.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/1r35bvxi.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/5nbpwd23.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/r4unnphg.webp)
 
-## 7.11 翁金线
+## 7.11翁金线
 
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
+- 距离：100km
+- 爬升：150m
+- 难度：★★★
+- 概述：从杭州出发沿钱塘江途径翁金线可抵达海宁校区。翁金线道路修缮良好，其中有较长的无红绿灯平路，适合各位骑友日常训练。
+- 活动参考链接：https://www.strava.com/activities/10145879059
+- 路线图：![](https://file.cc98.org/v2-upload/2024-03-18/mst12u2s.webp)
 - 风景图：
+
 
 # 8 多日
 
@@ -860,9 +889,47 @@ DAY3
 ![](http://file.cc98.org/v2-upload/bk3m3tux.jpg)
 ![](http://file.cc98.org/v2-upload/yjbnxncc.jpg)
 ![](http://file.cc98.org/v2-upload/s3ljcdgj.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/qiz4tmtv.webp)
 
 
 ## 8.2 四明山三日
+
+- 距离：180km+120km+133km，总计约433km
+- 爬升：850m+1500m+340m，总计约2700m
+- 难度：★★★★★★
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 西湖-湘湖-义桥-越城-平王线-上虞-余姚 |
+  | DAY2 | 四明水库-观景台-大岚镇-柿林村-章水镇-竹丝岚 |
+  | DAY3 | 余姚-安昌古镇-杭州 |
+
+此路线在炎热的天气下有一定的挑战性，但是每日的强度都较为合适，且沿途有大量不同风格的美景，在秋季骑行此路线还能享受馥郁的花香。四明山的壮丽风光也值得各位一去。回程路上安昌古镇的宁谧悠闲与落日余晖也能抹去骑手的疲劳。
+
+- 路线图：
+
+
+DAY1
+
+![](https://file.cc98.org/v2-upload/2024-03-18/zqnzp2fp.webp)
+
+DAY2
+
+![](https://file.cc98.org/v2-upload/2024-03-18/snotxt0g.webp)
+
+DAY3
+
+![](https://file.cc98.org/v2-upload/2024-03-18/dxmhmnpu.webp)
+
+- 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/of5nifxs.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/hgguqhn0.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ejkzhrbc.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ms5gdgwo.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/mp2l0urv.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/y545ejs2.webp)
+
 
 ## 8.3 清凉峰国家级自然保护区
 
@@ -901,4 +968,75 @@ DAY3
 ![](http://file.cc98.org/v2-upload/p1ugzrw5.jpg)
 ![](http://file.cc98.org/v2-upload/avkq3gtc.jpg)
 ![](http://file.cc98.org/v2-upload/tyq2jrsh.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/jrr4cwlw.webp)
 
+## 8.4 环太湖四日
+距离：90km+158km+158km+93km，总计约500km
+- 爬升：430m+450m+280m+170m，总计约1330m
+- 难度：★★★★★
+- 活动参考链接：
+    https://www.strava.com/activities/9953964365
+    https://www.strava.com/activities/9960888815
+    https://www.bilibili.com/video/BV1Rp4y1M7Ko
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 杭州-德清-湖州  |
+  | DAY2 | 湖州-宜兴-无锡  |
+  | DAY3 | 无锡-苏州-织里  |
+  | DAY4 | 织里-乾元-杭州  |
+
+此路线较为休闲，大佬可以考虑高铁直达太湖畔后一日内完成环湖。太湖整体较为平坦，沿途有大量骑行绿道，有多种路线可以选择。可以根据自身情况选择骑行距离。主要难点在于部分路段有较强的大风。主要景观包括湖州喜来登酒店（又名月亮酒店）、湖州太湖度假区、G104-1314驿站、常州太湖湾度假区、京杭大运河无锡-苏州交界、蠡湖国家湿地公园、太湖渔洋山风景区、东山风景区以及西山风景区等。骑行在太湖不同区域能感受太湖不同的风格，似大海般蔚蓝又无海的狂怒；似河流般深灰又可赏无尽的芦苇飘荡。在太湖休闲骑能真正体会“车轮不止，生命不息”的活力与快乐。
+
+- 路线图：
+
+
+DAY1
+
+![](https://file.cc98.org/v2-upload/2024-03-17/iqnsjzaj.webp)
+
+DAY2
+
+![](https://file.cc98.org/v2-upload/2024-03-17/1klw0dnd.webp)
+
+DAY3
+
+![](https://file.cc98.org/v2-upload/2024-03-17/yjkmztew.webp)
+
+DAY4
+
+![](https://file.cc98.org/v2-upload/2024-03-17/q5zpnunl.webp)
+
+- 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-17/i41pibux.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/pjeiptc5.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/rns1gmlp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/vk0w3lbl.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/odrkanlq.webp)
+![](https://file.cc98.org/v2-upload/2024-03-17/ulav3ap2.webp)
+
+
+## 8.5 环舟山骑游
+
+- 距离：100km
+- 爬升：约850m
+- 难度：★★★
+- 参考路线：https://www.strava.com/activities/8898403388
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 杭州-舟山 |
+  | DAY2 | 环舟山 |
+  | DAY3 | 舟山-杭州 |
+
+从杭州出发去舟山选择4+2最为方便。如果选择公共交通，则推荐【{高铁}（杭州-宁波）+{地铁+骑行}（宁波站-白峰轮渡码头）+{轮渡}（白峰码头-鸭蛋山）】。舟山本岛路况良好、风景优美，还可去长峙岛等感受海边景色。在本岛旁的朱家尖景区骑行更能获得跨海大桥以及蜿蜒的海岸山脊线带来的震撼。
+
+- 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/uiikqtn2.webp)
+
+- 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/da21dv3z.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/t4amvrs5.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/empjjnbe.webp)
