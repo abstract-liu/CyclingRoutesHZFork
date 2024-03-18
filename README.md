@@ -905,6 +905,7 @@ DAY3
 ![](https://file.cc98.org/v2-upload/2024-03-18/ejkzhrbc.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/ms5gdgwo.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/mp2l0urv.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/y545ejs2.webp)
 
 
 ## 8.3 清凉峰国家级自然保护区
