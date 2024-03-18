@@ -582,6 +582,7 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-17/d0jyg0js.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/43oyl3zb.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/dcru2kc5.webp)
 ## 5.2 小中泰2
 
 - 距离：
@@ -822,6 +823,10 @@
 - 路线图：
 - 风景图：
 ![](https://file.cc98.org/v2-upload/xet5y53t.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/u4p3n4e4.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/1r35bvxi.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/5nbpwd23.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/r4unnphg.webp)
 
 ## 7.11 翁金线
 
@@ -950,6 +955,7 @@ DAY3
 ![](http://file.cc98.org/v2-upload/p1ugzrw5.jpg)
 ![](http://file.cc98.org/v2-upload/avkq3gtc.jpg)
 ![](http://file.cc98.org/v2-upload/tyq2jrsh.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/jrr4cwlw.webp)
 
 ## 8.4 环太湖四日
 
