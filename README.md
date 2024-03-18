@@ -428,7 +428,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/xxjg1y5f.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/l1lrihsh.webp)
-![](https://file.cc98.org/v2-upload/2024-03-18/h1gjdmx5.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/j2mycu0t.webp）
 
 
 ## 4.2 安顶山
