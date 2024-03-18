@@ -136,6 +136,7 @@
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-13/ovvdvt3m.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/flqhpdx5.webp)
 
 ## 2.4 灵山
 
