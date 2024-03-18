@@ -840,14 +840,16 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 ![](https://file.cc98.org/v2-upload/2024-03-18/5nbpwd23.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/r4unnphg.webp)
 
-## 7.11 翁金线
+## 7.11翁金线
 
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
+- 距离：100km
+- 爬升：150m
+- 难度：★★★
+- 概述：从杭州出发沿钱塘江途径翁金线可抵达海宁校区。翁金线道路修缮良好，其中有较长的无红绿灯平路，适合各位骑友日常训练。
+- 活动参考链接：https://www.strava.com/activities/10145879059
+- 路线图：![](https://file.cc98.org/v2-upload/2024-03-18/mst12u2s.webp)
 - 风景图：
+
 
 # 8 多日
 
@@ -1013,3 +1015,28 @@ DAY4
 ![](https://file.cc98.org/v2-upload/2024-03-17/vk0w3lbl.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/odrkanlq.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/ulav3ap2.webp)
+
+
+## 8.5 环舟山骑游
+
+- 距离：100km
+- 爬升：约850m
+- 难度：★★★
+- 参考路线：https://www.strava.com/activities/8898403388
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 杭州-舟山 |
+  | DAY2 | 环舟山 |
+  | DAY3 | 舟山-杭州 |
+
+从杭州出发去舟山选择4+2最为方便。如果选择公共交通，则推荐【{高铁}（杭州-宁波）+{地铁+骑行}（宁波站-白峰轮渡码头）+{轮渡}（白峰码头-鸭蛋山）】。舟山本岛路况良好、风景优美，还可去长峙岛等感受海边景色。在本岛旁的朱家尖景区骑行更能获得跨海大桥以及蜿蜒的海岸山脊线带来的震撼。
+
+- 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/uiikqtn2.webp)
+
+- 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/da21dv3z.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/t4amvrs5.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/empjjnbe.webp)
