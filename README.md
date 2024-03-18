@@ -184,20 +184,20 @@
 - 距离：80km
 - 爬升：300m
 - 难度：★★★
-- 概述：
+- 概述：径山景区很大，其中最出名的当属径山寺，创建于唐天宝年间，是距今有1200余年的古刹，是佛教中国化之后最后的高峰。但现在已经无法骑行上径山寺，只能徒步或者乘大巴了。径山爬坡南坡缓，北坡急，两个方向都能骑，也是一条特别棒的夜骑路线（意思就是没啥风景）。
 - 活动参考链接：https://www.strava.com/activities/9242384668
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/0lngkw35.webp)
 - 风景图：
-
+![](https://file.cc98.org/v2-upload/2024-03-18/t0j5yxmt.webp)
 
 ### 3.1.2 径山2（新路）
 
 
 - 距离：88km
 - 爬升：700m
-- 难度：★★★
-- 概述：
+- 难度：★★★★
+- 概述：径山2新加的坡为风笑岭，反爬径山加上风笑岭，还是有一定强度的。与径山1相比，2的进山路线不一样，经茶山转入漕雅线，风景更好。
 - 活动参考链接：https://www.strava.com/activities/9866904999
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/znjlwmjo.webp)
@@ -228,7 +228,7 @@
 - 距离：100km
 - 爬升：800m
 - 难度：★★★★
-- 概述：
+- 概述：爬完老虎山，HP-10086，San-10086。老手可以去尝尝鲜，风景还是不错的。
 - 活动参考链接：https://www.strava.com/activities/9721886107
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/ywnamp1w.webp)
@@ -270,7 +270,7 @@
 - 距离：138km
 - 爬升：1400m
 - 难度：★★★★★
-- 概述：
+- 概述：平时大家骑车基本不会关注的隐藏副本，鸬鸟大道旁边的鸬鸟山，强度和难度都比较高，大家可以挑着骑。
 - 活动参考链接：https://www.strava.com/activities/9312557664#3106895688603557572
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/jbde5035.webp)
@@ -310,7 +310,7 @@
 - 距离：106km
 - 爬升：1800m
 - 难度：★★★★★
-- 概述：
+- 概述：大鱼线隐藏副本，风光真的炒鸡吴迪好。站立制高点，一览众山小。强度，难度都很高，适合自虐。
 - 活动参考链接：https://www.strava.com/activities/9154423889
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-15/ihxrhsor.webp)
@@ -337,13 +337,14 @@
 ![](https://file.cc98.org/v2-upload/2024-03-13/12h05qyp.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/cy3opfds.webp)
 
+
 ### 3.8.3 白水涧
 
 
 - 距离：105km
 - 爬升：700m
-- 难度：
-- 概述：
+- 难度：★★★
+- 概述：一条崭新的乡村路线，水库、旷野、山林、盘山公路将秋季拉满。而爬坡坡度不高，较为均匀。
 - 活动参考链接：https://www.strava.com/activities/10319900255
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/5hpav0wj.webp)
@@ -352,7 +353,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/idfdxv0q.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/y5ontlkr.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/mska4fo5.webp)
-
+![](https://file.cc98.org/v2-upload/2024-03-18/po0icqje.webp)
 ## 3.9 太湖源、天荒坪、S205组合
 
 
@@ -420,9 +421,9 @@
 - 爬升：600m
 - 难度：★★★★
 - 概述：林峰山为骑行爱好者修建了骑行绿道，全程5.8km，坡度适中，质量很高，适合有一定基础的骑友。当然刚入门的骑友慢慢骑，多休息几次，也是没有问题的！坡底有个水库，山顶风景中规中矩，但组织骑行活动打个卡也是不错的。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/7914144503
 - 路线图：
-
+![](https://file.cc98.org/v2-upload/2024-03-18/alc14xyj.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-16/ykmb3nxg.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
@@ -466,7 +467,7 @@
 
 - 距离：102km
 - 爬升：650m
-- 难度：★★★★
+- 难度：★★★
 - 概述：虎跑路-钱塘江大桥-闻涛路绿道-湘湖-诸坞村-诸坞林道-时代大道-浦沿路-虎跑路。此路线经过了湘湖，大家可选择性前往。诸坞林道属于萧山林道工程，坡陡路好车少，nice。时代大道已全线贯通。
 - 活动参考链接：
 - 路线图：
@@ -502,13 +503,16 @@
 
 ## 4.7 大岩山 
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
+- 距离：65km
+- 爬升：500m
+- 难度：★★★
+- 概述：大岩山位于萧山区边界处，距离较远，建议地铁到朝阳再骑。欢潭大岩山群山环抱，山林保护较好，部分还属原始森林，已成为野生动物栖息地。新修的林道暂时没什么人来，站在视野开阔处，风光无限，而且林道的起伏总让人有一种爽感。
 - 活动参考链接：https://www.strava.com/activities/10509389612
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/05amou5q.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/p5gpviv2.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/vk1ibjyw.webp)
 
 ## 4.8 萧山天路组合
 
@@ -563,9 +567,9 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 爬升：1100m
 - 难度：★★★★★
 - 概述：铜鉴湖大道-江滨东大道-新中线-汤马线-环金线-胡岭古道-环金线-沪瑞线G320。这里有着世界级的滑翔基地，五彩伞花在山巅绽放，北坡陡峭，南坡风景更为壮观，是一条小众的高质量骑行路线。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/7788684615
 - 路线图：
-- 活动参考链接：
+![](https://file.cc98.org/v2-upload/2024-03-18/4yo0aams.webp)
 - 风景图：
 ![](http://file.cc98.org/v2-upload/2023-02-26/r34efyyn.jpg)
 ![](http://file.cc98.org/v2-upload/2023-02-26/kthis3ub.jpg)
@@ -613,23 +617,23 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 爬升：750m
 - 难度：★★★
 - 概述：西溪路-天目山西路-留和路-沈家坞村-思古山村-牛肩岭-花戏村-青牧线（青山湖南侧）-国道329-天目山西路-西溪路。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/8656110284
 - 路线图：
 ![](http://file.cc98.org/v2-upload/2023-02-26/d0uzpcxf.jpg)
-
 - 风景图：
 ![](http://file.cc98.org/v2-upload/2023-02-26/wzusgopc.jpg)
 ![](http://file.cc98.org/v2-upload/2023-02-26/k3vi0jr1.jpg)
 ![](http://file.cc98.org/v2-upload/2023-02-26/ig1wktd1.jpg)
 
-## 5.4 沪瑞线
+## 5.4 沪瑞线-富春江
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：120km
+- 爬升：300m
+- 难度：★★★
+- 概述：国道加刷江的绝佳组合，一条极致的有氧路线。春天来了，富春江边的花海和远处的水墨山水图绝对能吸引你的眼球。
+- 活动参考链接：https://www.strava.com/activities/7642697865
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/bjisrvod.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-18/fkcezsig.webp)
 
@@ -654,8 +658,7 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 爬升：750m
 - 难度：★★★★
 - 概述：西溪路-天目山西路-国道329-吴越街-周家头-甘岭村-大同岭-花戏村-石横线-天目山西路。周家头一带海拔不高，但风景极为秀丽，是一条市区附近的高质量骑游路线，新手相对友好。
-- 活动参考链接：
-
+- 活动参考链接：https://www.strava.com/activities/7981971267
 - 路线图：
   ![](http://file.cc98.org/v2-upload/2023-02-21/qmvltlib.jpg)
 - 风景图：
@@ -666,10 +669,10 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 
 ## 5.7 瓦窑坪（杭州小香榧）
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
+- 距离：60km
+- 爬升：700m
+- 难度：★★★
+- 概述：群山环抱的盘山公路让其拥有杭州小香榧的称号，但路程和强度远不及香榧环线。因距离市区较远，建议地铁到临安。
 - 活动参考链接：https://www.strava.com/activities/9754553145
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-18/ezwekn45.webp)
@@ -718,14 +721,19 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 
 ## 6.3 莫干山
 
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：130km
+- 爬升：650m
+- 难度：★★★★
+- 概述：莫干山，中国四大避暑名山，是个国际大型旅游度假区。此路线虽然风景不错，但并没有经过制高点，也只能窥见莫干山的冰山一角，要想真正领略其风景，还得徒步进山。
+- 活动参考链接：https://www.strava.com/activities/10197434225
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/ycyop1j3.webp)
 - 风景图：
-
+![](https://file.cc98.org/v2-upload/2024-03-18/heabzxcj.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/kzthtp40.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/lsfvyvxe.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/x3tx3dcg.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/cg0z3lml.webp)
 # 7 平路合集
 
 ## 7.1 西溪湿地绕圈
@@ -759,7 +767,7 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 概述：无敌组合
 - 活动参考链接：https://www.strava.com/activities/7761987276
 - 路线图：
-
+![](https://file.cc98.org/v2-upload/2024-03-18/3re3en02.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2023-02-21/43aqw3ms.jpg)
 
@@ -777,43 +785,36 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 
 ## 7.6 钱塘路
 
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：60km+
+- 难度：200m
+- 概述：钱塘路刷江，你想骑多远骑多远，特别适合夜骑。绿道上车不多，唯一的槽点就是减速带较多。
+- 活动参考链接：https://www.strava.com/activities/9125407945
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/2jr2r20x.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2023-02-21/hk3mgbjx.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-18/f24bfjj1.webp)
 
 ## 7.7 湘湖
 
-- 距离：
+- 距离：70km
 - 难度：★
-- 概述：
-- 活动参考链接：
+- 概述：在西湖的强势碾压下，湘湖可能在城西都不为大多人所知，但湘湖的景色绝对值得你去逛逛。这里没有熙熙攘攘的人群，也不会有堵塞的交通，而且经常有环湖的小火车。
+- 活动参考链接：https://www.strava.com/activities/7874920989/
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/xrtsnjpw.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2023-02-21/21vwattv.jpg)
-
+![](https://file.cc98.org/v2-upload/2024-03-18/i1mn5qq3.webp)
 ## 7.8 青山湖
 
-- 距离：
+- 距离：km
 - 难度：
 - 概述：
 - 活动参考链接：
 - 路线图：
 - 风景图：
 ![](https://file.cc98.org/v2-upload/laayv2lp.jpg)
-
-## 7.9 浦阳江绿道
-
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
-- 风景图：
-![](https://file.cc98.org/v2-upload/o3akbbkq.jpg)
 
 ## 7.9 钱塘、浦阳、富春三江连刷
 
