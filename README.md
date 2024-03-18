@@ -125,6 +125,7 @@
 ![](https://file.cc98.org/v2-upload/2023-02-21/40mbdjgn.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-13/50vqf0ik.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/qudffpwp.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/03u4nw3t.webp)
 
 ## 2.3 梅岭+大清谷
 
@@ -136,6 +137,7 @@
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-13/ovvdvt3m.webp)
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/flqhpdx5.webp)
 
 ## 2.4 灵山
 
@@ -218,6 +220,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/asv4amqr.webp)
 ![](https://file.cc98.org/v2-upload/2023-02-21/h4u0j2im.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-14/10hmd51q.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/fewpkvio.webp)
 
 
 ## 3.3 老虎山
@@ -439,11 +442,10 @@
 ![](https://file.cc98.org/v2-upload/2024-03-13/2i5cyx2m.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/gpwzecbj.webp)
-![](https://file.cc98.org/v2-upload/2024-03-14/apjd3jze.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/ck0ia3pm.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/mz3angrj.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/wppjl4vz.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/uqlxlurc.webp)
-![](https://file.cc98.org/v2-upload/2024-03-18/jtzgg5wu.webp)
 
 
 
@@ -629,6 +631,7 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 活动参考链接：
 - 路线图：
 - 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-18/fkcezsig.webp)
 
 ## 5.5 大中泰（中泰-永昌镇）
 
