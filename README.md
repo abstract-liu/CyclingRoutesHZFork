@@ -1020,3 +1020,8 @@ DAY4
 ![](https://file.cc98.org/v2-upload/2024-03-18/da21dv3z.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/t4amvrs5.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/empjjnbe.webp)
+
+# 9 小结
+1. 以上就是杭州的**最全**骑行路线分享了，欢迎大家继续补充杭州周边的优质骑行路线～
+2. 文中部分路线与风景照截自骑友的社交分享、网络，若侵权或介意露脸请联系删除，在此表示抱歉与感谢
+3. We ride bikes to feel good, to feel alive, to spend time with friends, to spend time alone, to challenge ourselves, to push our boudaries, to explore amazing places, but also make the ORDINARY EXTRAODINARY. A bike gives you infinite horizons and endless possibility. 
