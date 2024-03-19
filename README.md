@@ -39,7 +39,7 @@
 
 ## 0.3 贡献者
 
-> 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210) [@宽油炸竹鼠](https://www.cc98.org/user/id/610890) [@Genetic111](https://www.cc98.org/user/id/652386)[]()共同编写，排名不分先后。
+> 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210) [@宽油炸竹鼠](https://www.cc98.org/user/id/610890)[]()共同编写，排名不分先后。
 
 ## 0.4 其他
 - 由于98的markdown解析器应该是偏向于原生版，故排版不是特别美观。且文中图片较多，无法收起，没有对应导航的目录标签，可能导致阅读体验不佳。如果想获得更佳的阅读体验，可到[这里](https://gitee.com/zsy54203/cycling-routes-hz)浏览完，再回98讨论:kissing_heart:。
@@ -174,16 +174,30 @@
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-13/iamdjtiy.webp)
 - 风景图：
-
+![](https://file.cc98.org/v2-upload/2024-03-19/vtdbje3i.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/jnvrj5ir.webp)
 
 # 3 安吉-余杭-临安交界群山（城西北）
 
 ![](https://file.cc98.org/v2-upload/2023-12-30/bo4fbewh.webp)
 
-## 3.1 径山组合
+## 3.1 甘岭水库-大禹谷
+
+- 距离：50km
+- 爬升：100m
+- 难度：★
+- 概述：很好的户外目的地，不仅能骑自行车环水库转一圈，还能山地越野、徒步娘娘山、湖边烧烤露营。
+- 活动参考链接：https://www.strava.com/activities/10134765179
+- 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-19/4v5gpkex.webp)
+- 风景图：
+![](https://file.cc98.org/v2-upload/2024-03-19/fxnpvasc.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/0etdwafn.webp)
+
+## 3.2 径山组合
 
 
-### 3.1.1 径山1（传统）
+### 3.2.1 径山1（传统）
 
 - 距离：80km
 - 爬升：300m
@@ -195,7 +209,7 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-18/t0j5yxmt.webp)
 
-### 3.1.2 径山2（新路）
+### 3.2.2 径山2（新路）
 
 
 - 距离：88km
@@ -209,7 +223,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-16/obfoiavu.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/3ul51gqb.webp)
 
-## 3.2 四岭水库环线
+## 3.3 四岭水库环线
 
 
 - 距离：100km（古墩路-104-235-鸬鸟大道-漕雅线-235-104返程）
@@ -227,7 +241,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-18/fewpkvio.webp)
 
 
-## 3.3 老虎山
+## 3.4 老虎山
 
 - 距离：100km
 - 爬升：800m
@@ -239,7 +253,7 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/njxb5qa5.webp)
 
-## 3.4 大麓寺
+## 3.5 大麓寺
 
 
 - 距离：120km
@@ -253,9 +267,10 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/q2vfrc3d.webp)
 ![](http://file.cc98.org/v2-upload/jsharmei.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-16/pbr35bgk.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/nx4xbd1e.webp)
 
 
-## 3.5 百丈-山川环线
+## 3.6 百丈-山川环线
 
 - 距离：125km
 - 爬升：550m
@@ -268,14 +283,14 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/fal0sfr0.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/j2yhg0cv.webp)
 
-## 3.6 鸬鸟山
+## 3.7 鸬鸟山
 
 
 - 距离：138km
 - 爬升：1400m
 - 难度：★★★★★
 - 概述：平时大家骑车基本不会关注的隐藏副本，鸬鸟大道旁边的鸬鸟山，强度和难度都比较高，大家可以挑着骑。路面铺设极佳，都是新的柏油路，风景也很好，趣味性很强，就是要爬挺多次墙。
-- 活动参考链接：https://www.strava.com/activities/9312557664#3106895688603557572
+- 活动参考链接：https://www.strava.com/activities/9312557664
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-14/jbde5035.webp)
 - 风景图：
@@ -286,7 +301,7 @@
 
 
 
-## 3.7 九亩田-金钱松国家森林公园
+## 3.8 九亩田-金钱松国家森林公园
 
 
 - 距离：135km（古墩路-104-235-鸬鸟镇-九亩田爬坡段-金钱松森林公园-四岭水库-漕雅线-235-104-古墩路）
@@ -306,9 +321,9 @@
 
 
 
-## 3.8 大鱼线组合
+## 3.9 大鱼线组合
 
-### 3.8.1 冷坞顶村、定云寺、木工山、草山岗星空之城
+### 3.9.1 冷坞顶村、定云寺、木工山、草山岗星空之城
 
 
 - 距离：106km
@@ -325,7 +340,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/nxq1cszz.webp)
 
 
-### 3.8.2 云上草原
+### 3.9.2 云上草原
 
 - 距离：140km
 - 爬升：1300m
@@ -337,11 +352,10 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-13/iqeuj1il.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/oiya543f.webp)
-![](https://file.cc98.org/v2-upload/2024-03-13/12h05qyp.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/cy3opfds.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/po0icqje.webp)
 
-
-### 3.8.3 白水涧
+### 3.9.3 白水涧
 
 
 - 距离：105km
@@ -356,8 +370,8 @@
 ![](https://file.cc98.org/v2-upload/2024-03-14/idfdxv0q.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/y5ontlkr.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-14/mska4fo5.webp)
-![](https://file.cc98.org/v2-upload/2024-03-18/po0icqje.webp)
-## 3.9 太湖源、天荒坪、S205组合
+
+## 3.10 太湖源、天荒坪、S205组合
 
 
 - **TIPS**：太湖源附近的热门骑行地点散布于`S205省道`沿线，8u们可以根据兴趣挑选若干目的地进行探访。整个骑行路程相对较长，对体能要求较高，因此对于新手uu或希望一次性打卡多个目的地的uu，推荐从**临安广场地铁站**出发，再从该站沿着`S205省道`向北开启太湖源之旅，途中可依次到达各个目的地。
@@ -365,7 +379,7 @@
   - **由南至北进入S205**: G235-长西线-S205
   - **由北至南进入S205**: G104-G235-S205
 
-### 3.9.1 东坑村、白沙村、指南村
+### 3.10.1 东坑村、白沙村、指南村
 ![](https://file.cc98.org/v2-upload/2024-03-19/mvprypes.webp)
 三村之中指南村风景最佳，也是爬坡最简单的，秋季无敌，梯田配枫叶，超级出片。
 - 活动参考链接：
@@ -394,7 +408,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-19/vcnuo3q2.webp)
 
 
-### 3.9.2 天荒坪
+### 3.10.2 天荒坪
 - 概述：在海拔近千米的天荒坪，在翠竹簇拥、群山环抱之中，有着江南天池，它以亚洲第一、世界第二的天荒坪抽水蓄能电站为依托，将雄伟的电站建筑与秀丽妩媚的自然风光结合，成为了安吉生态旅游中的一道亮丽的风景线。天荒坪爬坡虽然很长，但全程坡度中等，坡度均匀，考验耐力。沿盘山公路，一路都能看到拔地而起的天目山山麓，压迫感很强。
 - 活动参考链接：https://www.strava.com/activities/7550966332/
 - 路线图：
@@ -425,8 +439,6 @@
 ![](https://file.cc98.org/v2-upload/2024-03-15/4wmqb4og.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/xxjg1y5f.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-16/l1lrihsh.webp)
-![](https://file.cc98.org/v2-upload/2024-03-18/j2mycu0t.webp)
-
 
 ## 4.2 安顶山
 
@@ -452,7 +464,7 @@
 - 爬升：1300m
 - 难度：★★★★★
 - 概述：高强度长距离爬墙，建议能轻松（指在不追求速度的情况下很轻松骑完）完成安顶山和林峰山的uu再来挑战，林峰到安顶有几段300-500m，10-15%的究极大坡，最大坡度甚至到了20%+，很费膝盖。另外安排好时间，别天黑了还在山里，山里一个路灯也没有呀。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/10928328492
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-16/t3e4glnz.webp)
 - 风景图：
@@ -513,6 +525,7 @@
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-18/p5gpviv2.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/vk1ibjyw.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/fsklquvj.webp)
 
 ## 4.8 萧山天路组合
 ### 4.8.1 萧山天路1（林峰往戴村）
@@ -529,8 +542,7 @@
 ![](https://file.cc98.org/v2-upload/2024-03-19/jiyy2jpt.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-19/gcliehuh.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-19/0c3o0fwh.webp)
-
-
+            
 ### 4.8.2 萧山天路2（沈村往常绿）
 
 - 距离：160km
@@ -656,7 +668,6 @@ https://www.strava.com/activities/10041975503
 ![](https://file.cc98.org/v2-upload/2024-03-17/lubslvjq.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-17/qlcmnyza.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/23bmd154.webp)
-![](https://file.cc98.org/v2-upload/2024-03-18/0134lmnn.webp)
 
 ## 5.6 周家头、大同岭
 
