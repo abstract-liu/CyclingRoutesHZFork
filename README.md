@@ -39,7 +39,7 @@
 
 ## 0.3 贡献者
 
-> 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210) [@宽油炸竹鼠](https://www.cc98.org/user/id/610890) [@Genetic111](https://www.cc98.org/user/id/652386)[]()共同编写，排名不分先后。
+> 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210)[@Genetic111](https://www.cc98.org/user/id/652386)[@宽油炸竹鼠](https://www.cc98.org/user/id/610890)共同编写，排名不分先后。
 
 ## 0.4 其他
 - 由于98的markdown解析器应该是偏向于原生版，故排版不是特别美观。且文中图片较多，无法收起，没有对应导航的目录标签，可能导致阅读体验不佳。如果想获得更佳的阅读体验，可到[这里](https://gitee.com/zsy54203/cycling-routes-hz)浏览完，再回98讨论:kissing_heart:。
