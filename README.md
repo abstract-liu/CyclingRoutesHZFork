@@ -477,7 +477,7 @@
 - 爬升：650m
 - 难度：★★★
 - 概述：此路线经过了湘湖，大家可选择性前往。诸坞林道属于萧山林道工程，坡陡路好车少，nice。时代大道已全线贯通。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/routes/2983000504845927252
 - 路线图：
 ![](http://file.cc98.org/v2-upload/muyaxosg.jpg)
 - 风景图
@@ -1009,8 +1009,8 @@ DAY3
 距离：90km+158km+158km+93km，总计约500km
 - 爬升：430m+450m+280m+170m，总计约1330m
 - 难度：★★★★★
-- 活动参考链接：
-    湖州-无锡：https://www.strava.com/activities/9953964365  
+- 活动参考链接：  
+湖州-无锡：https://www.strava.com/activities/9953964365  
 无锡-织里：https://www.strava.com/activities/9960888815
     
 - 概述：
