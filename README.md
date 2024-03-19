@@ -476,7 +476,7 @@
 - 距离：102km
 - 爬升：650m
 - 难度：★★★
-- 概述：。此路线经过了湘湖，大家可选择性前往。诸坞林道属于萧山林道工程，坡陡路好车少，nice。时代大道已全线贯通。
+- 概述：此路线经过了湘湖，大家可选择性前往。诸坞林道属于萧山林道工程，坡陡路好车少，nice。时代大道已全线贯通。
 - 活动参考链接：
 - 路线图：
 ![](http://file.cc98.org/v2-upload/muyaxosg.jpg)
@@ -567,7 +567,7 @@ https://www.strava.com/activities/10041975503
 - 难度：★★★★★★
 - 概述：非常适合休闲骑的线路。途经孙权故里。沿途大量高质量公路及绿道。风景绝美。非常适合作为一天量的骑行活动路线。
 - 活动参考链接：https://www.strava.com/activities/8982623304
-- 路线图：https://file.cc98.org/v2-upload/2024-03-19/r1kdfzxu.webp
+- 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-19/r1kdfzxu.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-19/pohl2rvf.webp)
@@ -757,7 +757,7 @@ https://www.strava.com/activities/10041975503
 
 - 距离：14km/圈
 - 难度：★
-- 概述：西溪湿地绕圈为早期平路绕圈的好去处，只有两个红绿灯，路也比较好，主要还是离杭州各个地方都比较近，骑起来方便。但随着骑行爱好者越来越多，这条入门路线也网红化了，出的事故也比较多，在此就不过多概述了。建议早期或者深夜骑，这时车也不多，可以开个小火车。
+- 概述：西溪湿地绕圈为早起平路绕圈的好去处，只有两个红绿灯，路也比较好，主要还是离杭州各个地方都比较近，骑起来方便。但随着骑行爱好者越来越多，这条入门路线也网红化了，出的事故也比较多，在此就不过多概述了。建议早晨或深夜骑（务必带上车灯，部分路段较黑），这时车也不多，可以开个小火车。
 - 活动参考链接：https://www.strava.com/activities/9079170255
 - 路线图：
 ![](https://file.cc98.org/v2-upload/2024-03-13/lxcqkdjc.webp)
@@ -1005,9 +1005,9 @@ DAY3
 - 爬升：430m+450m+280m+170m，总计约1330m
 - 难度：★★★★★
 - 活动参考链接：
-    https://www.strava.com/activities/9953964365
-    https://www.strava.com/activities/9960888815
-    https://www.bilibili.com/video/BV1Rp4y1M7Ko
+    湖州-无锡：https://www.strava.com/activities/9953964365
+    无锡-织里：https://www.strava.com/activities/9960888815
+    
 - 概述：
 
   | 日期 | 路线                                                         |
@@ -1051,7 +1051,7 @@ DAY4
 
 - 距离：100km
 - 爬升：约850m
-- 难度：★★★
+- 难度：★★★★
 - 参考路线：https://www.strava.com/activities/8898403388
 - 概述：
 
