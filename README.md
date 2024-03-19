@@ -79,7 +79,7 @@
 
 ## 1.2 主干道简介
 
-![](https://file.cc98.org/v2-upload/2024-03-20/kqfg33xj.webp)
+![](https://file.cc98.org/v2-upload/2024-03-20/zdvucz2i.webp)
 
 ### 1.2.1 城西北—G104、G235
 **G104**和**G235**是骑行新人必须了解的杭州最重要的两条国道：
