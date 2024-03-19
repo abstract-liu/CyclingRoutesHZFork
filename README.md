@@ -809,8 +809,9 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 - 距离：105km
 - 难度：★★
 - 概述：含“江”量最高的一条线，三江两岸。适合平路贴地飞行的一条路线，道路铺设良好、信号灯少，其中春永线东向西的10km是绝佳的TT路线，和小伙伴的火车可以开起来。返程也可走G320，但相对路况没那么好。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/7238334248
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-19/nffhy1ve.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2023-02-21/nk3txypp.jpg)
 ![](https://file.cc98.org/v2-upload/2023-02-21/0jq02sq2.jpg)
