@@ -358,17 +358,13 @@
 
 
 - **TIPS**：太湖源附近的热门骑行地点散布于`S205省道`沿线，8u们可以根据兴趣挑选若干目的地进行探访。整个骑行路程相对较长，对体能要求较高，因此对于新手uu或希望一次性打卡多个目的地的uu，推荐从临安广场地铁站出发，再从该站沿着`S205省道`向北开启太湖源之旅，途中可依次到达各个目的地。
-- **主干路线**：去往这部分地点的主干路线大同小异，将在这里统一阐述，下午中将省略主干路线的介绍。
+- **主干路线**：去往这部分地点的主干路线大同小异，将在这里统一阐述，下文中将省略主干路线的介绍。
   - **由南至北进入S205**: G235-长西线-
   - **由北至南进入S205**: G104-G235-
 
 ### 3.9.1 东坑村、白沙村、指南村
-
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
+![](https://file.cc98.org/v2-upload/2024-03-19/mvprypes.webp)
+三村之中指南村风景最佳，也是爬坡最简单的，秋季无敌，梯田配枫叶，超级出片。
 - 活动参考链接：
   - 东坑村：https://www.strava.com/activities/8780112220
   - 白沙村：https://www.strava.com/activities/8040412881/
@@ -385,24 +381,21 @@
 ![](https://file.cc98.org/v2-upload/2024-03-18/hwv4pk4c.webp)
   - 白沙村：
 ![](https://file.cc98.org/v2-upload/2024-03-18/mxproxhm.webp)
-  ![](https://file.cc98.org/v2-upload/2024-03-18/rk1scc14.webp)
+![](https://file.cc98.org/v2-upload/2024-03-18/rk1scc14.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/5hniy5e2.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/wvd0hgyu.webp)
   - 指南村：
 ![](https://file.cc98.org/v2-upload/2024-03-18/mitxcbch.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/kyvkvnrd.webp)
-![](https://file.cc98.org/v2-upload/2024-03-18/1edmaxip.webp)
-
+![](https://file.cc98.org/v2-upload/2024-03-19/z23smzzd.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/vcnuo3q2.webp)
 
 
 ### 3.9.2 天荒坪
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 概述：在海拔近千米的天荒坪，在翠竹簇拥、群山环抱之中，有着江南天池，它以亚洲第一、世界第二的天荒坪抽水蓄能电站为依托，将雄伟的电站建筑与秀丽妩媚的自然风光结合，成为了安吉生态旅游中的一道亮丽的风景线。天荒坪爬坡虽然很长，但全程坡度中等，坡度均匀，考验耐力。沿盘山公路，一路都能看到拔地而起的天目山山麓，压迫感很强。
+- 活动参考链接：https://www.strava.com/activities/6547732796
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-19/sn1z4uko.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/2024-03-18/ckwmx21l.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/agildroz.webp)
@@ -515,15 +508,6 @@
 ![](https://file.cc98.org/v2-upload/2024-03-18/vk1ibjyw.webp)
 
 ## 4.8 萧山天路组合
-
-- 距离：
-- 爬升：
-- 难度：
-- 概述：
-- 活动参考链接：
-- 路线图：
-- 风景图：
-
 ### 4.8.1 萧山天路1（林峰往XX）
 
 - 距离：
@@ -751,11 +735,12 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 
 ## 7.3 钱塘江（短）
 
-- 距离：
-- 难度：
-- 概述：
+- 距离：70km
+- 难度：★
+- 概述：梅岭-之江路-彭埠大桥-沿南岸闻涛路返回-复兴大桥/钱塘江大桥-虎跑路-杨公堤。刷江建议避开晚饭后的人流高峰期，根据自身的需求，钱塘江两岸绿道可向东一直往翁金线骑行，大部分路况良好，大家可根据自己能力选择骑行距离。
 - 活动参考链接：
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-19/4rrekdza.webp)
 - 风景图：
 ![](http://file.cc98.org/v2-upload/2023-02-26/ntvh20zu.jpg)
 ![](https://file.cc98.org/v2-upload/2023-02-21/ujtc1sjk.jpg)
@@ -808,19 +793,22 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 ![](https://file.cc98.org/v2-upload/2024-03-18/i1mn5qq3.webp)
 ## 7.8 青山湖
 
-- 距离：km
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：105km
+- 难度：★★
+- 概述：杭州最美骑行环湖骑行道，秋天水杉很美，但节假日去骑行比较拥堵，体验会大打折扣。新手朋友可以地铁到青山湖体验环湖。
+- 活动参考链接：https://www.strava.com/activities/10346417696
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-19/mb4ssn34.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/laayv2lp.jpg)
+![](https://file.cc98.org/v2-upload/2024-03-19/4p0ejmnf.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/sltdw5hz.webp)
 
 ## 7.9 钱塘、浦阳、富春三江连刷
 
-- 距离：
-- 难度：
-- 概述：
+- 距离：105km
+- 难度：★★
+- 概述：含“江”量最高的一条线，三江两岸。适合平路贴地飞行的一条路线，道路铺设良好、信号灯少，其中春永线东向西的10km是绝佳的TT路线，和小伙伴的火车可以开起来。返程也可走G320，但相对路况没那么好。
 - 活动参考链接：
 - 路线图：
 - 风景图：
@@ -829,11 +817,12 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 
 ## 7.10 钱塘江（长）
 
-- 距离：
-- 难度：
-- 概述：
-- 活动参考链接：
+- 距离：120km
+- 难度：★★★
+- 概述：LSD刷江，江东大桥返程，在这你可以肆意拉扯，轮转的小火车可以把均速稳定在40+。
+- 活动参考链接：https://www.strava.com/activities/9769447068
 - 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-19/g45sq1eg.webp)
 - 风景图：
 ![](https://file.cc98.org/v2-upload/xet5y53t.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-18/u4p3n4e4.webp)
@@ -844,13 +833,15 @@ https://www.bilibili.com/video/BV1q34y1g7xu
 ## 7.11翁金线
 
 - 距离：100km
-- 爬升：150m
 - 难度：★★★
 - 概述：从杭州出发沿钱塘江途径翁金线可抵达海宁校区。翁金线道路修缮良好，其中有较长的无红绿灯平路，适合各位骑友日常训练。
 - 活动参考链接：https://www.strava.com/activities/10145879059
-- 路线图：![](https://file.cc98.org/v2-upload/2024-03-18/mst12u2s.webp)
+- 路线图：
+![](https://file.cc98.org/v2-upload/2024-03-18/mst12u2s.webp)
 - 风景图：
-
+![](https://file.cc98.org/v2-upload/2024-03-19/a21iwlrj.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/u2xypnk1.webp)
+![](https://file.cc98.org/v2-upload/2024-03-19/xhywans0.webp)
 
 # 8 多日
 
