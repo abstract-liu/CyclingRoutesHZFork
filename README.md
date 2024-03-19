@@ -1,5 +1,7 @@
 # 目录
 
+
+
 # 0 写在前面
 
 ## 0.1 杭州骑行路线（第一版）- 往期十大传送
@@ -37,7 +39,7 @@
 
 ## 0.3 贡献者
 
-> 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210) [@宽油炸竹鼠](https://www.cc98.org/user/id/610890) [@Genetic111](https://www.cc98.org/user/id/652386)[]()共同编写，排名不分先后。
+> 此版杭州骑行路线由[@kenbdisk](https://www.cc98.org/user/id/660048) [@帅小伙不帅](https://www.cc98.org/user/id/679210) [@宽油炸竹鼠](https://www.cc98.org/user/id/610890)[]()共同编写，排名不分先后。
 
 ## 0.4 其他
 - 由于98的markdown解析器应该是偏向于原生版，故排版不是特别美观。且文中图片较多，无法收起，没有对应导航的目录标签，可能导致阅读体验不佳。如果想获得更佳的阅读体验，可到[这里](https://gitee.com/zsy54203/cycling-routes-hz)浏览完，再回98讨论:kissing_heart:。
@@ -550,7 +552,7 @@ https://www.strava.com/activities/10041975503
 
 - 距离：202km
 - 爬升：1160m
-- 难度：★★★★★
+- 难度：★★★★★★
 - 概述：非常适合休闲骑的线路。途经孙权故里。沿途大量高质量公路及绿道。风景绝美。非常适合作为一天量的骑行活动路线。
 - 活动参考链接：https://www.strava.com/activities/8982623304
 - 路线图：https://file.cc98.org/v2-upload/2024-03-19/r1kdfzxu.webp
@@ -871,7 +873,7 @@ https://www.strava.com/activities/10041975503
 
 # 8 多日
 
-## 8.1 千岛湖三日
+## 8.1 千岛湖3日
 
 - 距离：200km+136km+150km，总计约490km
 
@@ -910,7 +912,7 @@ DAY3
 ![](https://file.cc98.org/v2-upload/2024-03-18/qiz4tmtv.webp)
 
 
-## 8.2 四明山三日
+## 8.2 四明山3日
 
 - 距离：180km+120km+133km，总计约433km
 - 爬升：850m+1500m+340m，总计约2700m
@@ -949,7 +951,7 @@ DAY3
 ![](https://file.cc98.org/v2-upload/2024-03-18/y545ejs2.webp)
 
 
-## 8.3 清凉峰国家级自然保护区
+## 8.3 清凉峰国家级自然保护区、昌化省级森林公园3日
 
 清凉峰国家级自然保护区、昌化省级森林公园3日
 
@@ -987,7 +989,7 @@ DAY3
 ![](http://file.cc98.org/v2-upload/tyq2jrsh.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-18/jrr4cwlw.webp)
 
-## 8.4 环太湖四日
+## 8.4 环太湖4日
 距离：90km+158km+158km+93km，总计约500km
 - 爬升：430m+450m+280m+170m，总计约1330m
 - 难度：★★★★★
