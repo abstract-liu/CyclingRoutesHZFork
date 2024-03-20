@@ -1,6 +1,5 @@
 # 目录
 
-
 # 0 写在前面
 
 ## 0.1 杭州骑行路线（第一版）- 往期十大传送
@@ -234,6 +233,7 @@
 - 风景图：
 
 ![](https://file.cc98.org/v2-upload/2024-03-18/t0j5yxmt.webp)
+![](http://file.cc98.org/v2-upload/2023-02-21/he0o0cci.jpg)
 
 ### 3.2.2 径山2（新路）
 
@@ -387,7 +387,7 @@
 - 距离：140km
 - 爬升：1300m
 - 难度：★★★★★
-- 概述：出余杭塘路基本就没红绿灯了，可以爽骑。这里的活动路线走的比较随意，大家想全程好路的话可以保持在G235-长西线-大鱼线上。大鱼线是一条长20+km的长缓坡，非常考验耐力和毅力。沿途有小溪竹林，零星几个村庄，算是深入自然之中了。而云上草原相对比较难，而且路不太好，特别是爬完大鱼线之后，大家一定要量力而行，但峰顶的风景绝对对得起你的汗水。草木旺盛、天高云淡之时，四周风景一览无余。
+- 概述：出余杭塘路基本就没红绿灯了，可以爽骑。这里的活动路线走的比较随意，大家想全程好路的话可以**保持在G235-长西线**-大鱼线上。大鱼线是一条长20+km的长缓坡，非常考验耐力和毅力。沿途有小溪竹林，零星几个村庄，算是深入自然之中了。而云上草原相对比较难，而且路不太好，特别是爬完大鱼线之后，大家一定要量力而行，但峰顶的风景绝对对得起你的汗水。草木旺盛、天高云淡之时，四周风景一览无余。
 - 活动参考链接：https://www.strava.com/activities/6461681024/
 - 路线图：
 
@@ -396,6 +396,7 @@
 
 ![](https://file.cc98.org/v2-upload/2024-03-13/iqeuj1il.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-13/oiya543f.webp)
+![](http://file.cc98.org/v2-upload/2023-02-21/fxfhbovy.jpg)
 ![](https://file.cc98.org/v2-upload/2024-03-13/cy3opfds.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/po0icqje.webp)
 
@@ -539,6 +540,7 @@
 ![](http://file.cc98.org/v2-upload/muyaxosg.jpg)
 - 风景图
 
+![](https://file.cc98.org/v2-upload/2024-03-20/xks2i3to.webp)
 ![](http://file.cc98.org/v2-upload/ootj0dgf.jpg)
 ![](http://file.cc98.org/v2-upload/2023-02-21/snkvound.jpg)
 ![](http://file.cc98.org/v2-upload/2023-02-21/ys2inm0d.jpg)
@@ -756,7 +758,7 @@ https://www.strava.com/activities/10041975503
 - 距离：125km
 - 爬升：750m
 - 难度：★★★★
-- 概述：西溪路-天目山西路-国道329-吴越街-周家头-甘岭村-大同岭-花戏村-石横线-天目山西路。周家头一带海拔不高，但风景极为秀丽，是一条市区附近的高质量骑游路线，新手相对友好。
+- 概述：国道329-吴越街-周家头-甘岭村-大同岭-花戏村-石横线。周家头一带海拔不高，但风景极为秀丽，路面铺设良好，是一条市区附近的高质量骑游路线，只骑一个坡的话对新手也友好。这里给出的活动链接，大同岭下到花戏村中间有一段石子路越野，大家一般可原路返回，就都是好路。
 - 活动参考链接：https://www.strava.com/activities/7981971267
 - 路线图：
 
@@ -770,11 +772,11 @@ https://www.strava.com/activities/10041975503
 
 ## 5.7 瓦窑坪（杭州小香榧）
 
-- 距离：60km
-- 爬升：700m
-- 难度：★★★
-- 概述：群山环抱的盘山公路让其拥有杭州小香榧的称号，但路程和强度远不及香榧环线。因距离市区较远，建议地铁到临安。
-- 活动参考链接：https://www.strava.com/activities/9754553145
+- 距离：135km
+- 爬升：800m
+- 难度：★★★★
+- 概述：这里有漫山遍野的香榧林，大山深处的村民们祖祖辈辈过着日出而作、日落而息的慢生活，挖笋、采茶、养鸡，自给自足、平静悠闲。随着新农村的不断建设，这里也逐渐被户外爱好者所青睐，但总的来说还是一条相对小众的骑行路线。PS这边村里的狗子特别喜欢追人，感受一下田园犬轻轻松松5w+的实力吧。
+- 活动参考链接：https://www.strava.com/activities/9754913169
 - 路线图：
 
 ![](https://file.cc98.org/v2-upload/2024-03-18/ezwekn45.webp)
@@ -855,6 +857,10 @@ https://www.strava.com/activities/10041975503
 
 ![](https://file.cc98.org/v2-upload/2024-03-13/lxcqkdjc.webp)
 
+- 风景图：
+
+![](http://file.cc98.org/v2-upload/2023-02-25/2g1sllnc.jpg)
+
 ## 7.2 西湖绕圈
 
 见`2.1`
@@ -864,10 +870,11 @@ https://www.strava.com/activities/10041975503
 - 距离：70km
 - 难度：★
 - 概述：梅岭-之江路-彭埠大桥-沿南岸闻涛路返回-复兴大桥/钱塘江大桥-虎跑路-杨公堤。刷江建议避开晚饭后的人流高峰期，根据自身的需求，钱塘江两岸绿道可向东一直往翁金线骑行，大部分路况良好，大家可根据自己能力选择骑行距离。
-- 活动参考链接：
+- 活动参考链接：https://www.strava.com/activities/9356971378/
 - 路线图：
 
 ![](https://file.cc98.org/v2-upload/2024-03-19/4rrekdza.webp)
+
 - 风景图：
 
 ![](http://file.cc98.org/v2-upload/2023-02-26/ntvh20zu.jpg)
@@ -911,6 +918,7 @@ https://www.strava.com/activities/10041975503
 ![](https://file.cc98.org/v2-upload/2024-03-18/f24bfjj1.webp)
 - 风景图：
 
+![](https://file.cc98.org/v2-upload/2024-03-20/3q115kma.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-19/dqlarvtg.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/2jr2r20x.webp)
 ![](https://file.cc98.org/v2-upload/2023-02-21/hk3mgbjx.jpg)
@@ -928,7 +936,7 @@ https://www.strava.com/activities/10041975503
 - 风景图：
 
 ![](https://file.cc98.org/v2-upload/2023-02-21/21vwattv.jpg)
-![](https://file.cc98.org/v2-upload/2024-03-18/i1mn5qq3.webp)
+
 ## 7.8 青山湖
 
 - 距离：105km
@@ -994,6 +1002,7 @@ https://www.strava.com/activities/10041975503
 
 
 # 8 多日
+
 多日路线选取从杭州出发骑车/驾车/高铁能较快到达的小长途经典骑行路线，适合有一定基础又想挑战自我的小伙伴在小长假结队而行，体验不一样的旅行————既能避开旅游高峰，又能享受出行的乐趣。不同于单日骑行路线，多日骑行路线需要骑友携带车包/背包放置衣物、修车工具等，因此骑行过程（尤其是爬坡）会更有挑战性。出发前应检查车辆状况并根据自身情况做好细致的安排。
 
 ![](https://file.cc98.org/v2-upload/2024-03-20/bplwad51.webp)
@@ -1196,6 +1205,44 @@ DAY4
 ![](https://file.cc98.org/v2-upload/2024-03-18/da21dv3z.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/t4amvrs5.webp)
 ![](https://file.cc98.org/v2-upload/2024-03-18/empjjnbe.webp)
+
+## 8.6 绍兴3日
+
+- 距离：97km+160km+110km，总计约370km
+
+- 爬升：300m+1700m+404m，总计约2400m
+
+- 难度：★★★★★★★
+
+- 概述：
+
+  | 日期 | 路线                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | DAY1 | 躲避节假日的人潮，选一个不会堵车的出游方式。西湖-瓜渚湖-镜湖-迪荡湖 |
+  | DAY2 | 沉浸式爬坡，骑行在山间的小路上，看远处蓝天白云下的山峦。越城-平水-王坛-崇仁-谷来-稽东-越城 |
+  | DAY3 | 骑行的速度刚好，不错过每一处美景，也能时刻保持新鲜感。大香林-安昌古镇-西湖。 |
+
+- 路线图：
+
+DAY1
+
+![](http://file.cc98.org/v2-upload/juqzkj4y.jpg)
+
+DAY2
+
+![](http://file.cc98.org/v2-upload/h42ydvbg.jpg)
+
+DAY3
+
+![](http://file.cc98.org/v2-upload/gfwlmdg4.jpg)
+
+- 风景图：
+
+![](http://file.cc98.org/v2-upload/xeqbz55t.jpg)
+
+![](http://file.cc98.org/v2-upload/vcqph1fi.jpg)
+
+![](http://file.cc98.org/v2-upload/ccyerbjd.jpg)
 
 # 9 小结
 1. 以上就是杭州的**最全**骑行路线分享了，欢迎大家继续补充杭州周边的优质骑行路线～
